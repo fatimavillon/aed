@@ -205,7 +205,7 @@ int main() {
     lista.push_back(5);
     lista.push_front(30);
 
-    cout << "\n[1] Lista inicial:      ";
+    cout << "\n[1] Lista inicial: ";
     lista.print();
 
     // --- front / back / size ---
